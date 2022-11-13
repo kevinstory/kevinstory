@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kevinstory
-- 👀 I’m interested in vuejs
+- 👀 I’m interested in vuejs and nuxtjs
 - 🌱 I’m currently learning graphql
 - 💞️ I’m looking to collaborate and explore career opportunities
 - 📫 How to reach me kevinstory@gmail.com or yourjs.dev
